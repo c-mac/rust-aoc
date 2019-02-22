@@ -1,0 +1,6 @@
+[package]
+name = "rust-aoc"
+version = "0.1.0"
+authors = ["Cameron McCallie <mccallie.cameron@gmail.com>"]
+
+[dependencies]
