@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Cameron McCallie <mccallie.cameron@gmail.com>"]
 
 [dependencies]
-aoc-runner = "0.1.0"
-aoc-runner-derive = "0.1.0"
+aoc_runner = { version = "*", package = "aoc-runner" }
+aoc_runner_derive = { version = "*", package = "aoc-runner-derive" }
